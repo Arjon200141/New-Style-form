@@ -1,0 +1,24 @@
+*{
+    background-color: rgb(12, 255, 255);
+}
+h2{
+    text-align: center;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+legend{
+    text-align: center;
+    font-weight: 800;
+}
+fieldset{
+    width: 500px;
+    height: 100%;
+}
+h3{
+    text-decoration: underline;
+}
+footer{
+    text-align: center;
+}
